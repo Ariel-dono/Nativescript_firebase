@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "602431950349",
+    "firebase_url": "https://offthebench-c8686.firebaseio.com",
+    "project_id": "offthebench-c8686",
+    "storage_bucket": "offthebench-c8686.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602431950349:android:dc695f6d83356ee2",
+        "android_client_info": {
+          "package_name": "org.nativescript.logFirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602431950349-u7dtdq1sov73se959uuv8iknfbos25sm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfJ2N4YHDRC66vf6p8Or0jOa1CPDBZHW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
