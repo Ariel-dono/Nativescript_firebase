@@ -1,0 +1,1 @@
+# Nativescript_firebase
